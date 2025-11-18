@@ -1,0 +1,15 @@
+(Include full standard MIT text; you can copy from https://opensource.org/licenses/MIT)
+
+---
+
+## 3) config/settings.json  
+`config/settings.json` — defaults:
+
+```json
+{
+  "version": "4.0",
+  "auto_export": true,
+  "default_report_path": "reports",
+  "log_level": "INFO",
+  "github_auto_push_default": false
+}
