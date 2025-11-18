@@ -1,4 +1,4 @@
 target,platform,type,evidence_list,attachments,notes
-https://t.me/flairrsupporting,telegram,channel,"https://t.me/flairrsupporting/188;https://t.me/flairrsupporting/189;https://t.me/flairrsupporting/190;https://t.me/flairrsupporting/201","screens/s1.jpg;screens/s2.jpg","Promotes explicit APKs and pornographic content"
-https://t.me/drupgun,telegram,channel,"https://t.me/drupgun/94;https://t.me/drupgun/95;https://t.me/drupgun/96;https://t.me/drupgun/97",,"Multiple APK-sharing posts"
-https://github.com/readflairbot-eng,github,repository,"Referenced in Telegram posts linking to APKs","","Suspected repo linking to APK distribution"
+https://t.me/flairrsupporting,telegram,channel,"https://t.me/flairrsupporting/188;https://t.me/flairrsupporting/189","screens/s1.jpg;screens/s2.jpg","Pornographic content + APK distribution"
+https://t.me/drupgun,telegram,channel,"https://t.me/drupgun/94;https://t.me/drupgun/95","","APK-sharing + unsafe content"
+https://github.com/readflairbot-eng,github,repository,"Referenced by Telegram porn bots","","Suspicious repo linked to bot distribution"
