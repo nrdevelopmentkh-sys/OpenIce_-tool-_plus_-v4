@@ -23,7 +23,7 @@ jobs:
 
       - name: Run OpenICE report generator (sample)
         run: |
-          python openice_tool_plus_v4.py --input sample_targets.csv --prefix github_run_case --auto
+          python openice_tool_plus_v4.py --input targets.csv --prefix github_run_case --auto
 
       - name: Upload reports artifact
         uses: actions/upload-artifact@v4
